@@ -43,14 +43,14 @@ Revenue is calculated as units sold multiplied by the catalogue selling price. H
 
 ## How I did it
 
-1. I organised the sales, product, store, and inventory data into separate tables.
-2. I used Power Query to clean and prepare the data, check keys, join related tables, and create daily and monthly summaries.
-3. I calculated sales revenue, margins, inventory value, and demand measures using Excel formulas.
-4. I used ABC analysis to classify products by annual consumption value.
-5. I calculated a 30-day moving-average forecast and compared a historical holdout forecast with actual sales.
-6. I calculated EOQ, safety stock, reorder points, and recommended orders using editable planning assumptions.
-7. I built PivotTables, charts, and slicers to present the results in the dashboard.
-8. I checked totals against the original data and tested how changing planning assumptions affected the recommendations.
+1. Organised the sales, product, store, and inventory data into separate tables.
+2. Used Power Query to clean and prepare the data, check keys, join related tables, and create daily and monthly summaries.
+3. Calculated sales revenue, margins, inventory value, and demand measures using Excel formulas.
+4. Applied ABC analysis to classify products by annual consumption value.
+5. Built a 30-day moving-average forecast and compared a historical holdout forecast with actual sales.
+6. Calculated EOQ, safety stock, reorder points, and recommended orders using editable planning assumptions.
+7. Created PivotTables, charts, and slicers to present the results in the dashboard.
+8. Checked totals against the original data and tested how changing planning assumptions affected the recommendations.
 
 
 ### Editable planning inputs
